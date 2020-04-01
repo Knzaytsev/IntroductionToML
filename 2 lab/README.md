@@ -22,3 +22,12 @@ s0 = вычисляем энтропию исходного множества
    
 В данном случае ∆S - это Information Gain, вычисляемый по формуле: 
 разница начальной энтропии и сумма произведения деления конкретного числа элементов выборки и общего числа и конкретной энтропии.
+
+
+## Полезные ссылки
+https://habr.com/ru/company/ods/blog/322534/
+https://habr.com/ru/post/171759/
+https://edu.kpfu.ru/pluginfile.php/91556/mod_resource/content/3/Decision%20trees_1.pdf
+https://www.hse.ru/mirror/pubs/share/215285956
+https://ranalytics.github.io/data-mining/052-Binary-Decision-Trees.html
+https://learnmachinelearning.wikia.org/ru/wiki/Решающее_дерево_(Decision_tree)
