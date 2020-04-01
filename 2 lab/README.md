@@ -2,6 +2,8 @@
 
 ## Примерный алгоритм работы дерева решений
 
+Работа алгоритма заключается в следующем (взято честно из статьи [2]):
+
       s0 = вычисляем энтропию исходного множества
       
       Если s0 == 0 значит:
@@ -32,14 +34,9 @@
 
 
 ## Полезные ссылки
-https://habr.com/ru/company/ods/blog/322534/
-
-https://habr.com/ru/post/171759/
-
-https://edu.kpfu.ru/pluginfile.php/91556/mod_resource/content/3/Decision%20trees_1.pdf
-
-https://www.hse.ru/mirror/pubs/share/215285956
-
-https://ranalytics.github.io/data-mining/052-Binary-Decision-Trees.html
-
-https://learnmachinelearning.wikia.org/ru/wiki/Решающее_дерево_(Decision_tree)
+1.    https://habr.com/ru/company/ods/blog/322534/
+2.    https://habr.com/ru/post/171759/
+3.    https://edu.kpfu.ru/pluginfile.php/91556/mod_resource/content/3/Decision%20trees_1.pdf
+4.    https://www.hse.ru/mirror/pubs/share/215285956
+5.    https://ranalytics.github.io/data-mining/052-Binary-Decision-Trees.html
+6.    https://learnmachinelearning.wikia.org/ru/wiki/Решающее_дерево_(Decision_tree)
