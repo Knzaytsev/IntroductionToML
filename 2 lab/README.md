@@ -21,7 +21,7 @@ s0 = вычисляем энтропию исходного множества
    Повторяем данную процедуру рекурсивно для каждого подмножества
    
 В данном случае ∆S - это Information Gain, вычисляемый по формуле:
-![Формула вычисления Information Gain](https://github.com/Knzaytsev/IntroductionToML/raw/master/2%20lab/img/entropy.png)
+![Формула вычисления Information Gain](https://github.com/Knzaytsev/IntroductionToML/raw/master/2%20lab/img/information gain.png)
 разница начальной энтропии и сумма произведения деления конкретного числа элементов выборки и общего числа и конкретной энтропии.
 
 
