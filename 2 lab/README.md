@@ -22,11 +22,11 @@
             Разбиваем исходное множество на подмножества, согласно предикату
             Повторяем данную процедуру рекурсивно для каждого подмножества
 
-Вычисление энтропии производится по следующей формуле:
+Вычисление энтропии производится по следующей формуле [2]:
 
 ![Формула вычисления энтропии](https://github.com/Knzaytsev/IntroductionToML/raw/master/2%20lab/img/entropy.png)
 
-∆S - это Information Gain, вычисляемый по формуле:
+∆S - это Information Gain, вычисляемый по формуле [1]:
 
 ![Формула вычисления Information Gain](https://github.com/Knzaytsev/IntroductionToML/raw/master/2%20lab/img/information%20gain.png),
 
