@@ -73,3 +73,4 @@ Loss-функция будет вычисляться таким образом:
 ### 2.      Полезные ссылки
 
 1.    https://habr.com/ru/company/ods/blog/327250/
+2.    https://habr.com/ru/company/mailru/blog/438562/
