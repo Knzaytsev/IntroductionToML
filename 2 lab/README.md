@@ -74,3 +74,4 @@ Loss-функция будет вычисляться таким образом:
 
 1.    https://habr.com/ru/company/ods/blog/327250/
 2.    https://habr.com/ru/company/mailru/blog/438562/
+3.    https://statweb.stanford.edu/~jhf/ftp/trebst.pdf
